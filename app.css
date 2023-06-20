@@ -81,7 +81,7 @@
     box-shadow: -6px 6px 6px rgb(255, 254, 254),
     6px -6px 6px rgb(191, 189, 189) ;
 }
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 850px) {
     .main-container {
         background-color: blueviolet;
     }
